@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Example">
+      <UniqueIdentifier>{363ce6a7-18ed-44b1-8592-dfdb682ce1aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Example">
+      <UniqueIdentifier>{dd58ac88-dc41-461c-9c16-c8ff9f00c935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Utility">
+      <UniqueIdentifier>{70915f7e-fbad-42a4-85b3-34c815d7b616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Utility">
+      <UniqueIdentifier>{5ad45f35-23d5-4d8b-9f08-cf0ce3ee609e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Figura">
+      <UniqueIdentifier>{2ad61780-86dc-467b-81ab-6f6891d94ae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Figura">
+      <UniqueIdentifier>{94488c20-6030-497a-9efb-653d5fa3d3f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Ejercicio 2">
+      <UniqueIdentifier>{d14ac371-5cbc-414f-b373-25a46dd40489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Ejercicio 2">
+      <UniqueIdentifier>{b844a213-345b-474b-b67d-42a0ab2f5eda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Max">
+      <UniqueIdentifier>{1dd71a90-9484-440b-9d8e-7f60e53c9002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Max">
+      <UniqueIdentifier>{fc5c4bbe-92bf-46d8-8702-2729eefa810f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Light">
+      <UniqueIdentifier>{1b06cfc6-a37e-4a4e-8380-3fa5ff9d18c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Light">
+      <UniqueIdentifier>{d6a533e9-a81a-4dde-b07c-d6fcb48cbfe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Camara">
+      <UniqueIdentifier>{7e55cbb7-ae5b-4f71-a544-4027d9e75548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Camara">
+      <UniqueIdentifier>{abeff7bc-fed0-4926-abca-4e4171f7317e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Texture">
+      <UniqueIdentifier>{eebc3cd0-2d39-43d8-9564-d5f8aeeccd06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Texture">
+      <UniqueIdentifier>{1a745192-38a0-48ca-9be7-f38e88289610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Color">
+      <UniqueIdentifier>{f5edab2b-5fac-496d-bd35-5e7f6a15216a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Color">
+      <UniqueIdentifier>{9fa3a69e-e4aa-47aa-ac19-3507c15b5f34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OpenGL.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Example.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Example1.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Figura.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Figura2D.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Figura3D.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Punto3D.cpp">
+      <Filter>Archivos de origen\Ejercicio 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Poligono.cpp">
+      <Filter>Archivos de origen\Ejercicio 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Esfera.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Circulo.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Cuadrado.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubo.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Piramide.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangulo.cpp">
+      <Filter>Archivos de origen\Figura</Filter>
+    </ClCompile>
+    <ClCompile Include="Example2.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Archivos de origen\Max</Filter>
+    </ClCompile>
+    <ClCompile Include="Example4.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Example3.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Archivos de origen\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="LightBase.cpp">
+      <Filter>Archivos de origen\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionLight.cpp">
+      <Filter>Archivos de origen\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>Archivos de origen\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLight.cpp">
+      <Filter>Archivos de origen\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Archivos de origen\Camara</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5.cpp">
+      <Filter>Archivos de origen\Example</Filter>
+    </ClCompile>
+    <ClCompile Include="BMPTextureLoader.cpp">
+      <Filter>Archivos de origen\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureLoader.cpp">
+      <Filter>Archivos de origen\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Archivos de origen\Color</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Archivos de origen\Texture</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Example.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Example1.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="IncludeGL.h">
+      <Filter>Archivos de encabezado\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Figura.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Figura3D.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Figura2D.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Punto3D.h">
+      <Filter>Archivos de encabezado\Ejercicio 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Poligono.h">
+      <Filter>Archivos de encabezado\Ejercicio 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Esfera.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Circulo.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Cuadrado.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubo.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Piramide.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangulo.h">
+      <Filter>Archivos de encabezado\Figura</Filter>
+    </ClInclude>
+    <ClInclude Include="Example2.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Archivos de encabezado\Max</Filter>
+    </ClInclude>
+    <ClInclude Include="Example3.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="Example4.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="LightBase.h">
+      <Filter>Archivos de encabezado\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Archivos de encabezado\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionLight.h">
+      <Filter>Archivos de encabezado\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Archivos de encabezado\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Archivos de encabezado\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Archivos de encabezado\Camara</Filter>
+    </ClInclude>
+    <ClInclude Include="Example5.h">
+      <Filter>Archivos de encabezado\Example</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureLoader.h">
+      <Filter>Archivos de encabezado\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="BMPTextureLoader.h">
+      <Filter>Archivos de encabezado\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Archivos de encabezado\Color</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Archivos de encabezado\Texture</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenGL.rc">
+      <Filter>Archivos de recursos</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+﻿  Example5.cpp
+C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\OpenGL\Example5.cpp(82,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\OpenGL\Example5.cpp(85,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\OpenGL\Example5.cpp(88,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\OpenGL\Example5.cpp(91,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\OpenGL\Example5.cpp(94,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\OpenGL\Example5.cpp(97,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+  OpenGL.vcxproj -> C:\Users\abish\Downloads\OpenGL\OpenGL\OpenGL\Debug\OpenGL.exe
